@@ -36,6 +36,9 @@ export default function Home() {
         )}
         renderSectionHeader={({section: {title}}) => 
         <Text className="text-xl text-white font-heading mt-8 mb-3">{title}</Text>}
+        className="flex-1 p-5"
+        showsVerticalScrollIndicator={false}
+        contentContainerStyle={{ paddingBottom: 50}}
       />
     </View>
   )
