@@ -1,3 +1,4 @@
+import {Loading} from "@/components/loading"
 import { SafeAreaView } from "react-native";
 import { Slot } from "expo-router";
 import {
@@ -7,7 +8,6 @@ import {
     Inter_600SemiBold,
     Inter_700Bold
 } from "@expo-google-fonts/inter"
-import {Loading} from "@/components/loading"
 
 export default function Layout() {
 
