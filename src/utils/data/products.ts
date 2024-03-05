@@ -207,6 +207,26 @@ const MENU = [
         thumbnail: require("../../assets/products/thumbnail/6.png"),
         ingredients: ["Escolha o sabor;", "Chantilly;"],
       },
+      {
+        id: "15",
+        title: "Tiramisu",
+        price: 19.9,
+        description:
+          "Um delicioso tiramisu para adoçar. Escolha o sabor que você gosta...",
+        cover: require("../../assets/products/cover/15.png"),
+        thumbnail: require("../../assets/products/thumbnail/15.png"),
+        ingredients: ["Escolha o sabor;", "Chantilly;"],
+      },
+      {
+        id: "16",
+        title: "Mousse de Chocolate",
+        price: 20.9,
+        description:
+          "Um mousse de chocolate para adoçar. Escolha o sabor que você gosta...",
+        cover: require("../../assets/products/cover/16.png"),
+        thumbnail: require("../../assets/products/thumbnail/16.png"),
+        ingredients: ["Escolha o sabor;", "Chantilly;"],
+      },
     ],
   },
   {
