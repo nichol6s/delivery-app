@@ -6,7 +6,7 @@ Bem-vindo ao repositório do DeliveryApp, um aplicativo mobile de entrega de com
 ## Visão Geral
 
 
-O DeliveryApp é um aplicativo que permite aos usuários explorar visualizar menus, fazer pedidos e receber confirmações através do WhatsApp.
+O DeliveryApp é um aplicativo que permite aos usuários explorar, visualizar menus, fazer pedidos e receber confirmações através do WhatsApp.
 
   ![alt text](assets/images/Home.png)
   ![alt text](assets/images/Product.png)
@@ -35,10 +35,9 @@ Confira o protótipo do aplicativo no Figma: https://www.figma.com/community/fil
 
 ## 🚀 Iniciando o Projeto
 
-Ao clonar o repositório para o seu ambiente de desenvolvimento basta usar o seguinte comando:
+Ao clonar o repositório para o seu ambiente de desenvolvimento basta usar o seguinte comando para rodar a aplicação:
 
 ```
 npx expo start
 
 ```
-Assim você terá a possibilidade de instalar o aplicativo do Expo no seu celular e escanear o QR Code, ou até mesmo rodar a aplicação em algum emulador, como o Android Studio. Basta seguir as orientações dadas no terminal.
