@@ -23,7 +23,7 @@ O DeliveryApp é um aplicativo que permite aos usuários explorar visualizar men
 ## Protótipo
 
 
-Confira o protótipo do aplicativo no Figma: https://www.figma.com/file/Omtb20Cfyo84rx6GrfJUsf/NLW-expert-%E2%80%A2-Orders-(Community)?type=design&node-id=116-606&mode=design&t=vdhuf1kpTqbuhJYB-0
+Confira o protótipo do aplicativo no Figma: https://www.figma.com/community/file/1336456468568916765/nlw-expert-orders
 
 
 ## 🔨 Funcionalidades Principais
